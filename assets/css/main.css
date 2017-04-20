@@ -129,6 +129,12 @@ a:after {
 	font-weight: 100;
 	letter-spacing: 2px;
 }
+#headerwrap1 h2 {
+	color: white;
+	font-size: 50px;
+	font-weight: 100;
+	letter-spacing: 2px;
+}
 
 /* Portfolio Wrap */
 #portfoliowrap {
